@@ -36,6 +36,39 @@ As an experienced software engineer with a deep passion for distributed systems,
 - 👨‍💻 **Tech Leadership**: Led technical transformations, optimized distributed systems, and developed solutions across various domains and tech stacks.
 - 🚀 **Innovative Contributions**: Driven by early programming experiences and a love for technology, continually seeking challenging and rewarding software engineering opportunities.
 
+#### 😄 Pronouns
+
+He/Him
+
+## 💡 Skills & Interests
+
+- 💾 **Tech Expertise**: Proficient in distributed systems, cloud technologies, and data protection.
+- 🖥️ **Programming Languages**: Skilled in C, Python, Java, C#, and others.
+- 🛠️ **Operating Systems**: Versed in Linux, Windows, Mac, and Android OS.
+
+## 🌱 I'm Currently Learning
+
+- **Matrix (Synapse)**: Diving into the world of self-hosted communication solutions, I'm currently setting up my own Matrix server using Synapse. This project is enhancing my understanding of real-time, decentralized communication platforms.
+- **Mastodon**: Exploring the realms of decentralized social media, I'm also learning how to set up and manage a Mastodon instance. It's an exciting journey into federated social networks and their potential for privacy-focused, community-driven interactions.
+- Continuously updating my skills in containerization, orchestration, and cloud computing.
+
+## ⚡ Fun Fact
+
+- 🏃 **Running Enthusiast**: Serious about running with a current running streak of over 685 days.
+- 🌌 **Sci-Fi & Fantasy Fan**: Love diving into books by authors like Andy Weir and Brandon Sanderson.
+- 🤖 **Tech Hobbyist**: Enjoy experimenting with Raspberry Pi and home automation.
+- 💪🌱 **Vegan Lifestyle**: Committed to plant-based living for health, animals, and the environment.
+
+## 📫 How to Reach Me
+
+Connect with me on [LinkedIn](https://www.linkedin.com/in/ianbecker/).
+
+## ✨ My Beliefs
+
+- 🌐 **Open Source Advocacy**: Passionate about contributing to open-source software.
+- 📚 **Lifelong Learning**: Dedicated to continuously updating my skills in emerging technologies.
+- 👥 **Collaborative Spirit**: Believe in the power of teamwork and effective communication.
+
 ## 🌟 Key Projects
 
 ### Android Automation Framework
@@ -90,36 +123,3 @@ As an experienced software engineer with a deep passion for distributed systems,
 ### SQLite VFS Integration for Enhanced Security
 
 - Collaborated on integrating a custom data protection library with SQLite's VFS, significantly enhancing database security.
-
-## 💡 Skills & Interests
-
-- 💾 **Tech Expertise**: Proficient in distributed systems, cloud technologies, and data protection.
-- 🖥️ **Programming Languages**: Skilled in C, Python, Java, C#, and others.
-- 🛠️ **Operating Systems**: Versed in Linux, Windows, Mac, and Android OS.
-
-## 🌱 I'm Currently Learning
-
-- **Matrix (Synapse)**: Diving into the world of self-hosted communication solutions, I'm currently setting up my own Matrix server using Synapse. This project is enhancing my understanding of real-time, decentralized communication platforms.
-- **Mastodon**: Exploring the realms of decentralized social media, I'm also learning how to set up and manage a Mastodon instance. It's an exciting journey into federated social networks and their potential for privacy-focused, community-driven interactions.
-- Continuously updating my skills in containerization, orchestration, and cloud computing.
-
-## ⚡ Fun Fact
-
-- 🏃 **Running Enthusiast**: Serious about running with a current running streak of over 685 days.
-- 🌌 **Sci-Fi & Fantasy Fan**: Love diving into books by authors like Andy Weir and Brandon Sanderson.
-- 🤖 **Tech Hobbyist**: Enjoy experimenting with Raspberry Pi and home automation.
-- 💪🌱 **Vegan Lifestyle**: Committed to plant-based living for health, animals, and the environment.
-
-## 📫 How to Reach Me
-
-Connect with me on [LinkedIn](https://www.linkedin.com/in/ianbecker/).
-
-## ✨ My Beliefs
-
-- 🌐 **Open Source Advocacy**: Passionate about contributing to open-source software.
-- 📚 **Lifelong Learning**: Dedicated to continuously updating my skills in emerging technologies.
-- 👥 **Collaborative Spirit**: Believe in the power of teamwork and effective communication.
-
-## 😄 Pronouns
-
-He/Him
