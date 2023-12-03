@@ -19,7 +19,7 @@ As an experienced software engineer with a deep passion for distributed systems,
 
 ### Garmin Run Streak Tracker
 
-![Run Streak](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fisbecker%2Fstreak-tracker%2Fmain%2Fstreak.json&query=%24.total_count&suffix=%20days&style=for-the-badge&label=%F0%9F%8F%83%20Run%20Streak&color=lawngreen&link=https%3A%2F%2Fgithub.com%2Fisbecker%2Fstreak-tracker)
+[![Run Streak](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fisbecker%2Fstreak-tracker%2Fmain%2Fstreak.json&query=%24.total_count&suffix=%20days&style=for-the-badge&label=%F0%9F%8F%83%20Run%20Streak&color=lawngreen&link=https%3A%2F%2Fgithub.com%2Fisbecker%2Fstreak-tracker)](https://github.com/isbecker/streak-tracker)
 
 <https://github.com/isbecker/streak-tracker>
 
@@ -65,7 +65,7 @@ He/Him
 ## ⚡ Fun Fact
 
 - 🏃 **Running Enthusiast**: Serious about running - here's my current running streak
-![Run Streak](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fisbecker%2Fstreak-tracker%2Fmain%2Fstreak.json&query=%24.total_count&suffix=%20days&label=%F0%9F%8F%83%20Run%20Streak&color=lawngreen&link=https%3A%2F%2Fgithub.com%2Fisbecker%2Fstreak-tracker)
+[![Run Streak](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fisbecker%2Fstreak-tracker%2Fmain%2Fstreak.json&query=%24.total_count&suffix=%20days&label=%F0%9F%8F%83%20Run%20Streak&color=lawngreen&link=https%3A%2F%2Fgithub.com%2Fisbecker%2Fstreak-tracker)](https://github.com/isbecker/streak-tracker)
 
 - 🌌 **Sci-Fi & Fantasy Fan**: Love diving into books by authors like Andy Weir and Brandon Sanderson.
 - 🤖 **Tech Hobbyist**: Enjoy experimenting with Raspberry Pi and home automation.
