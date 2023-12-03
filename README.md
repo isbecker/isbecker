@@ -15,6 +15,16 @@ Here are some ideas to get you started:
 
 As an experienced software engineer with a deep passion for distributed systems, cloud technologies, and open-source software, I've made my mark by innovating, optimizing, and leading in various technology domains. My expertise in C, C#, Python, and Java, combined with a strong foundation in Linux and Android OS, allows me to craft efficient and secure software solutions.
 
+## Curent Projects
+
+### Garmin Run Streak Tracker
+
+![Run Streak](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fisbecker%2Fstreak-tracker%2Fmain%2Fstreak.json&query=%24.total_count&suffix=%20days&style=for-the-badge&label=%F0%9F%8F%83%20Run%20Streak&color=lawngreen&link=https%3A%2F%2Fgithub.com%2Fisbecker%2Fstreak-tracker)
+
+<https://github.com/isbecker/streak-tracker>
+
+See my current running streak (updates daily)!
+
 ## 🚀 About Me
 
 ### Early Beginnings in Tech 🌟
@@ -54,7 +64,9 @@ He/Him
 
 ## ⚡ Fun Fact
 
-- 🏃 **Running Enthusiast**: Serious about running with a current running streak of over 685 days.
+- 🏃 **Running Enthusiast**: Serious about running - here's my current running streak
+![Run Streak](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fisbecker%2Fstreak-tracker%2Fmain%2Fstreak.json&query=%24.total_count&suffix=%20days&label=%F0%9F%8F%83%20Run%20Streak&color=lawngreen&link=https%3A%2F%2Fgithub.com%2Fisbecker%2Fstreak-tracker)
+
 - 🌌 **Sci-Fi & Fantasy Fan**: Love diving into books by authors like Andy Weir and Brandon Sanderson.
 - 🤖 **Tech Hobbyist**: Enjoy experimenting with Raspberry Pi and home automation.
 - 💪🌱 **Vegan Lifestyle**: Committed to plant-based living for health, animals, and the environment.
