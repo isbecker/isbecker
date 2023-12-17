@@ -81,6 +81,9 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/ianbecker/).
 - 📚 **Lifelong Learning**: Dedicated to continuously updating my skills in emerging technologies.
 - 👥 **Collaborative Spirit**: Believe in the power of teamwork and effective communication.
 
+<details>
+  <summary>🌟 Key Projects</summary>
+  
 ## 🌟 Key Projects
 
 ### Android Automation Framework
@@ -135,3 +138,5 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/ianbecker/).
 ### SQLite VFS Integration for Enhanced Security
 
 - Collaborated on integrating a custom data protection library with SQLite's VFS, significantly enhancing database security.
+
+</details>
