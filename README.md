@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 
 # Hello, I'm Ian 👋
 
-As an experienced software engineer with a deep passion for distributed systems, cloud technologies, and open-source software. I've made my mark by innovating, optimizing, and leading in various technology domains. My expertise in C, C#, Python, and Java, combined with a strong foundation in Linux and Android OS, allows me to craft efficient and secure software solutions.
+As an experienced software engineer with a deep passion for distributed systems, cloud technologies, and open-source software, I've made my mark by innovating, optimizing, and leading in various technology domains. My expertise in C, C#, Python, and Java, combined with a strong foundation in Linux and Android OS, allows me to craft efficient and secure software solutions.
 
 ## Curent Projects
 
@@ -81,9 +81,6 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/ianbecker/).
 - 📚 **Lifelong Learning**: Dedicated to continuously updating my skills in emerging technologies.
 - 👥 **Collaborative Spirit**: Believe in the power of teamwork and effective communication.
 
-<details>
-  <summary>🌟 Key Projects</summary>
-  
 ## 🌟 Key Projects
 
 ### Android Automation Framework
@@ -138,5 +135,3 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/ianbecker/).
 ### SQLite VFS Integration for Enhanced Security
 
 - Collaborated on integrating a custom data protection library with SQLite's VFS, significantly enhancing database security.
-
-</details>
