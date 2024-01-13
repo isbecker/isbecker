@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 
 As an experienced software engineer with a deep passion for distributed systems, cloud technologies, and open-source software, I've made my mark by innovating, optimizing, and leading in various technology domains. My expertise in C, C#, Python, and Java, combined with a strong foundation in Linux and Android OS, allows me to craft efficient and secure software solutions.
 
+I stream my development on OSS projects on [Twitch](https://twitch.tv/beckrdev) and I also upload the streams to [YouTube](https://youtube.com/@beckrdev).
+
 ## Curent Projects
 
 ### Garmin Run Streak Tracker
@@ -24,6 +26,17 @@ As an experienced software engineer with a deep passion for distributed systems,
 <https://github.com/isbecker/streak-tracker>
 
 See my current running streak (updates daily)!
+
+### News Reader
+https://github.com/isbecker/reader
+
+A news reader app that I am writing, using SvelteKit + Typescript + TailwindCSS.
+
+I am using this app to learn these technologies and improve my skills. I also hope that it will become useful to others.
+
+I often stream the work on my [Twitch](https://twitch.tv/beckrdev). Please feel free to follow along!
+
+My goal is to have a combined feed of my preferred news source - Reddit + Hacker News
 
 ## 🚀 About Me
 
