@@ -29,7 +29,9 @@ I stream my development on OSS projects on [Twitch](https://twitch.tv/beckrdev) 
 See my current running streak (updates daily)!
 
 ### News Reader
-https://github.com/isbecker/reader
+Deployed at https://reader.beckr.dev
+
+Code at https://github.com/isbecker/reader
 
 A news reader app that I am writing, using SvelteKit + Typescript + TailwindCSS.
 
