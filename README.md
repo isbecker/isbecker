@@ -10,9 +10,9 @@ I'll get back to it soon!
 
 ## Curent Projects
 
-### treefmt-vscode
+### gigarandr
 
-[isbecker/treefmt-vscode](https://github.com/isbecker/treefmt-vscode)
+[gigarandr](https://github.com/isbecker/gigarandr) is a project I am working on to improve the way my laptop configures displays
 
 ### News Reader
 
