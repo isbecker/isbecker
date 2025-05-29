@@ -5,8 +5,8 @@
 
 As an experienced software engineer with a deep passion for distributed systems, cloud technologies, and open-source software, I've made my mark by innovating, optimizing, and leading in various technology domains. My expertise in C, C#, Python, and Java, combined with a strong foundation in Linux and Android OS, allows me to craft efficient and secure software solutions.
 
-I have done some streaming of my development on OSS projects on [Twitch](https://twitch.tv/beckrdev) and I also upload the streams to [YouTube](https://youtube.com/@beckrdev).
-I'll get back to it soon!
+I have done some streaming of my development on OSS projects on [Twitch](https://twitch.tv/beckrdev).
+I don't stream much anymore, I just don't find the time these days.
 
 ## Curent Projects
 
